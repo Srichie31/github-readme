@@ -70,17 +70,17 @@ me.say_hi()
 
 ## Top Repositories
 
-<a href="https://github.com/Srichie31/ask-srichie-ai" style="margin-bottom : 2rem">
+<a href="https://github.com/Srichie31/ask-srichie-ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srichie31&repo=ask-srichie-ai
 &theme=buefy" />
 </a>
 
-<a href="https://github.com/Srichie31/megha-mitra" style="margin-top : 2rem">
+<a href="https://github.com/Srichie31/megha-mitra" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srichie31&repo=megha-mitra
 &theme=buefy" />
 </a>
 
-<a href="https://github.com/Srichie31/algosort.studio" style="margin-top : 2rem">
+<a href="https://github.com/Srichie31/algosort.studio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Srichie31&repo=algosort.studio
 &theme=buefy" />
 </a>
